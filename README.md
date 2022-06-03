@@ -1,2 +1,2 @@
-# Assigmnents2
+# Assigments2
 Basic Of Phyton
